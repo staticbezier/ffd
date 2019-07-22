@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/">
+        <file>../ffd_input.png</file>
+    </qresource>
+</RCC>
